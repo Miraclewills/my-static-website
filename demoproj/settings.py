@@ -26,7 +26,7 @@ SECRET_KEY = '_b97&b)(_gbtm2blmry9!$$!f3@vgeeh@rhpsln_s9!yo^i=h_'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['212c9f3235c04b73937ea4a93e51fe08.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['demoproj3.eba-f8qs9ism.us-east-1.elasticbeanstalk.com']
 
 # Application definition
 
